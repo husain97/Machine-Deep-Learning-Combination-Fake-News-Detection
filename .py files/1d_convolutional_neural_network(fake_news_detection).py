@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/12cHHZCKjdMMxws_8uLDI9wc1egmioI5p
 """
 
-from google.colab import drive 
-drive.mount('/content/gdrive')
 
 #SILENCING THE FALSE POSITIVE WARNINGS
 import warnings
